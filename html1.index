@@ -1,4 +1,30 @@
-html.index
-<link href="https://fonts.googleapis.com/css?family=Roboto&subset=cyrillic"
-rel="stylesheet">
+<!DOCTYPE HTML>
+<html>
+    <header>
+        <title>Perepadin</title>
+    </header>
+    <nav>
+<a href="">RPG</a>
+<a href="">Action</a>
+<a href="">Simulytor</a>
+<a href="">Arcade</a>
+<a href="">Shooter</a>
+    </nav>
+    <body>
+    <P>
+    Тут будет страница магазина 10 игр, а может и 20 игр
+    </P>
+
+        <button class="button">
+        Кнопка
+        </button>
+    </body>
+
+    <h1>
+    </h1>
+
+
+
+
+</html>
 
